@@ -1,4 +1,4 @@
-# Admin Dashboard Alantis
+# [Admin Dashboard Alantis](https://themekita.com/demo-atlantis-lite-bootstrap/)
 
 Atlantis Lite is a free bootstrap 4 admin dashboard that is beautifully and elegantly designed to display various metrics, numbers or data visualization.
 
@@ -12,10 +12,10 @@ Atlantis Lite is a free bootstrap 4 admin dashboard that is beautifully and eleg
 
 <br />
 
-For more information please access the official product page. 
+For more information please access the [official product page](https://themekita.com/demo-atlantis-lite-bootstrap/). 
 
 <br />
 
 ---
-Admin Dashboard Alantis - Open-Source admin panel. Provided by **Themekita**
+[Admin Dashboard Alantis](https://themekita.com/demo-atlantis-lite-bootstrap/) - Open-Source admin panel. Provided by **Themekita**
 
