@@ -4,11 +4,18 @@ Atlantis Lite is a free bootstrap 4 admin dashboard that is beautifully and eleg
 
 <br />
 
-> **In love with this dashboard?** Check out the [open-source version coded in Flask](https://github.com/app-generator/flask-dashboard-atlantis). **Features:** SQLite Database, Session-Based Authentication, Flat Html converted to Jinja2, clean code-base. 
+## Want more? Use coded version or Go PRO!
+
+PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup)) 
+
+| [Flask Dashboard Atlantis](https://appseed.us/admin-dashboards/flask-dashboard-atlantis) | [Django Dashboard Atlantis](https://appseed.us/admin-dashboards/django-dashboard-atlantis) | [Flask Dashboard Material PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro) 
+| --- | --- | --- |
+| [![Flask Dashboard Atlantis](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-atlantis-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-atlantis) | [![Django Dashboard Atlantis](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-atlantis-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-atlantis) | [![Flask Dashboard Material PRO](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) 
 
 <br />
+<br />
 
-![Flask Dashboard Atlantis - Open-Source Admin Panel](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-atlantis-intro.gif)
+![Flask Dashboard Atlantis - Open-Source Admin Panel](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-atlantis-screen.png)
 
 <br />
 
